@@ -369,4 +369,27 @@ public class Finch extends Robot {
         else if (upsideDown) return "Upside down";
         return "In between";
     }
+
+
+
+
+
+
+
+
+
+
+
+public void dance(int speed) {
+    for (int i = 0; i < 2; i++) {
+        setMove("F", 50, speed);
+        setBeak(100, 100, 100);
+        setTurn("R", 360.0, speed);
+        setMove("B", 50, speed);
+        setTurn("L", 360.0, speed);
+    }
+}
+
+
+
 }
