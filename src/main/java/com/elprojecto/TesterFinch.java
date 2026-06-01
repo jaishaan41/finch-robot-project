@@ -5,8 +5,10 @@ public class TesterFinch {
         FinalFinch bird = new FinalFinch("A");
    
 
-    bird.dance(90);
+        bird.dance();
 
+        
+        //bird.stopAll();
 
     }
 
