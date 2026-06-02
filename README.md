@@ -108,3 +108,29 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
+
+
+
+
+
+
+
+
+## Project Description and Objectives
+Our project objective was making the finch robot to dance and play music while also lighting up. We did this by using for loops for the dance, 1d arrays for the song and another 1d array to display an image on the robot. We put these methods in 1 big method called dance which our robot ran.
+
+## Challenges
+We faced the challenge of making our project more complex. We solved this challenge by asking Mr aiello for assistance and he provided us many ideas such as making our robot play music or displaying an image. We then implemented these methods to make our robot do more than just dance.
+
+## Future Enhancments
+We started with a basic for loop to make our robot repeat a set of dance moves twice. We then relized this was to basic. We then added music and a small image on the back of our robot.
+
+## Video
+
+[![click for video](thumbnail.jpg)](https://youtu.be/7adI1QeMcyo)
+
+
+
+
+
